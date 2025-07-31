@@ -1,0 +1,17 @@
+/* src/App.css */
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.section {
+  padding: 10px;
+  border-left: 3px solid green;
+}
+
+.st2 h1,
+.v1 h1,
+.mystyle1 h1 {
+  font-weight: bold;
+}
